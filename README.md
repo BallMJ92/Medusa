@@ -2,7 +2,7 @@
 Medusa is a Python based vulnerability reporter which utilises an amended rapidscan Python 2.7 file to run vunlerability scans against a given website. 
 By following the below and running the vulnerability_reporter.py in Python 3.8+, a professional report with high-level findings can be produced based on the rapidscan results.
 
-
+Requirements - RapidScan
 
 1.	Log into Kali Linux and head to directory where rapidscan.py is located	2m
 
